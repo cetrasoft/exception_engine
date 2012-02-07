@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   
   s.require_paths = ["lib"]
   s.add_dependency("mongoid", "~> 2.2.0")
-  s.add_dependency("bson_ext", "1.2.4")
+  s.add_dependency("bson_ext", "~> 1.5.0")
 end
 
  
